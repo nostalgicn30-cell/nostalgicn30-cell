@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="880" viewBox="0 0 840 880" font-family="ui-monospace,Consolas,monospace">
+<rect width="840" height="880" rx="12" fill="#0d1117"/><rect x=".5" y=".5" width="839" height="879" rx="12" fill="none" stroke="#30363d"/>
+<line x1="0" y1="30" x2="840" y2="30" stroke="#30363d"/><circle cx="20" cy="15" r="5" fill="#ff5f56"/><circle cx="36" cy="15" r="5" fill="#ffbd2e"/><circle cx="52" cy="15" r="5" fill="#27c93f"/>
+<text x="420" y="19" fill="#7d8590" font-size="12" text-anchor="middle">ganesh@github: ~$ ./stats.sh</text>
+<style>.card{fill:#161b22;stroke:#30363d}.t{fill:#7d8590;font-size:20px}.n{fill:#39d353;font-size:58px;font-weight:700}.bar{transform-origin:0 0;animation:grow 1.8s ease-out infinite alternate}@keyframes grow{from{transform:scaleX(.15)}to{transform:scaleX(1)}} .pulse{animation:p 1.4s ease-in-out infinite}@keyframes p{50%{opacity:.35}} </style>
+<rect class="card" x="20" y="54" width="800" height="190" rx="12"/><text class="t" x="48" y="96">$ current streak</text><text class="n" x="48" y="165">∞<tspan fill="#7d8590" font-size="24"> days of learning</tspan></text><circle class="pulse" cx="760" cy="94" r="8" fill="#39d353"/>
+<rect class="card" x="20" y="270" width="800" height="190" rx="12"/><text class="t" x="48" y="312">$ activity</text><rect x="48" y="350" width="700" height="18" rx="9" fill="#21262d"/><rect class="bar" x="48" y="350" width="700" height="18" rx="9" fill="#39d353"/><text x="48" y="412" fill="#c9d1d9" font-size="18">code → commit → learn → repeat</text>
+<rect class="card" x="20" y="486" width="800" height="190" rx="12"/><text class="t" x="48" y="528">$ mode</text><text x="48" y="590" fill="#22d3ee" font-size="42">BUILDING</text><text x="48" y="630" fill="#7d8590" font-size="18">Projects are the laboratory.</text>
+<text x="42" y="750" fill="#7d8590" font-size="18">$ uptime --profile</text><text x="42" y="790" fill="#39d353" font-size="20">● ONLINE</text>
+</svg>

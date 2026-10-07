@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="190" viewBox="0 0 860 190">
+<rect width="860" height="190" rx="12" fill="#0d1117" stroke="#30363d"/><style>text{font-family:monospace}.b{animation:load 2s ease-in-out infinite alternate;transform-origin:left}@keyframes load{from{transform:scaleX(.35)}to{transform:scaleX(1)}}</style>
+<text x="30" y="38" fill="#7d8590" font-size="14">$ ./skills.sh</text>
+<text x="30" y="72" fill="#c9d1d9" font-size="15">Python</text><rect x="120" y="60" width="650" height="12" rx="6" fill="#21262d"/><rect class="b" x="120" y="60" width="570" height="12" rx="6" fill="#39d353"/>
+<text x="30" y="108" fill="#c9d1d9" font-size="15">Web</text><rect x="120" y="96" width="650" height="12" rx="6" fill="#21262d"/><rect class="b" x="120" y="96" width="520" height="12" rx="6" fill="#22d3ee"/>
+<text x="30" y="144" fill="#c9d1d9" font-size="15">AI / Data</text><rect x="120" y="132" width="650" height="12" rx="6" fill="#21262d"/><rect class="b" x="120" y="132" width="470" height="12" rx="6" fill="#a78bfa"/>
+<text x="30" y="175" fill="#39d353" font-size="13">STATUS: continuously upgrading...</text>
+</svg>
